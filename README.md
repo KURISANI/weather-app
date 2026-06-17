@@ -59,7 +59,7 @@ McCauley Mabedhle
 
 Data Scientist | Data Engineer
 
-GitHub • www.linkedin.com/in/mccauley-kurisani-44571a180
+[GitHub](https://github.com/KURISANI) • www.linkedin.com/in/mccauley-kurisani-44571a180
 
 📈 What I learned
 
