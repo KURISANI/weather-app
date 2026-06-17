@@ -19,7 +19,9 @@ A simple desktop weather application built with Python. Enter any city and get r
 
 ## 📁 Project Structure
 weather-app/
+
 ├── weather_app.py # Main application code
+
 └── README.md # This file
 
 
@@ -52,6 +54,7 @@ The app includes a free OpenWeatherMap API key. If you want your own key:
 McCauley Mabedhle
 
 Data Scientist | Data Engineer
+
 GitHub • LinkedIn
 
 📈 What I learned
