@@ -34,6 +34,8 @@ weather-app/
 python weather_app.py
 
 📸 What it looks like
+
+
 <img width="417" height="537" alt="weather app" src="https://github.com/user-attachments/assets/7a3c12dc-3638-4a60-8400-aac58896a088" />
 
 🔑 API Key Note
