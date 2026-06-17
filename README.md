@@ -38,14 +38,19 @@ python weather_app.py
 
 <img width="417" height="537" alt="weather app" src="https://github.com/user-attachments/assets/7a3c12dc-3638-4a60-8400-aac58896a088" />
 
+
+
 🔑 API Key Note
+
 The app includes a free OpenWeatherMap API key. If you want your own key:
 
 1. Sign up at openweathermap.org
 2. Replace the api_key variable in the code with your new key
 
 👨‍💻 Author
+
 McCauley Mabedhle
+
 Data Scientist | Data Engineer
 GitHub • LinkedIn
 
