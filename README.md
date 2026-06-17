@@ -31,9 +31,13 @@ weather-app/
 
 2. **Install required packages**
    ```bash
-   pip install pyqt5 requests
+   pip install -r requirements.txt
+   ```
 
-python weather_app.py
+3. **Run the application**
+   ```bash
+   python weather_app.py
+   ```
 
 📸 What it looks like
 
@@ -55,7 +59,7 @@ McCauley Mabedhle
 
 Data Scientist | Data Engineer
 
-GitHub • LinkedIn
+GitHub • www.linkedin.com/in/mccauley-kurisani-44571a180
 
 📈 What I learned
 
